@@ -1,4 +1,4 @@
-# For plotting angles vs volumes measured from pooled timecourse data
+# For spearman correlation calculation and plotting of normalized angles vs volumes measured from timelapse and perturbation data
 # Written by Kira L. Heikes, with help from Jiacheng Wang and Copilot GPT-5, 7/19/2026
 # For use in manuscript: Hydrostatic pressure shapes and canalizes semicircular canal morphology to ensure vestibular function.
 # doi.org/10.64898/2026.07.22.740136
