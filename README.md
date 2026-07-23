@@ -11,10 +11,10 @@ Written in the Munjal Lab at Duke University.
 - `AngleMeasurement.m` - Matlab function to measure pillar angles from 3D coordinates chosen in Fiji Mastodon ('spots')
 - `BatchAngleMeasurements.m` - Matlab Script for batch measuring pillar angles from 3D coordinates chosen in Fiji Mastodon ('spots')
 - `IndividualTimelapsePlotting.m` - Matlab Script to plot pillar angle and OV volume data in time from individually timelapsed Zebrafish OVs
-- `PlotTimecourseAngleVolumeDataAndBinsAcrossAllTime.R` - R script for plotting angles vs volumes measured from pooled timecourse data
-- `PlotTimelapseVSPerturbationsNormalizedAngleVolumeData.R` - R script for spearman correlation calculation and plotting of normalized angles vs volumes measured from timelapse and perturbation data
-- `Plot_LargeCohort_AspectRatio_54-72hpf.R` - 
-- `TimeCourse_OV-Tissue-Lumen-VolumePlot_46-72hpf.R` - 
+- `PlotTimecourseAngleVolumeDataAndBinsAcrossAllTime.R` - R script for plotting pillar angles vs OV volumes measured from pooled timecourse data
+- `PlotTimelapseVSPerturbationsNormalizedAngleVolumeData.R` - R script for spearman correlation calculation and plotting of normalized pillar angles vs normalized OV volumes measured from timelapse and perturbation data
+- `Plot_LargeCohort_AspectRatio_54-72hpf.R` - R script for plotting pillar aspect ratios vs OV volumes and computing linear regression Rsquared from pooled timecourse data
+- `TimeCourse_OV-Tissue-Lumen-VolumePlot_46-72hpf.R` - R script for plotting OV, lumen, and tissue volumes and tissue fractions over time from pooled timecourse data
 
 ## Dependencies
 - `AngleMeasurement.m`
