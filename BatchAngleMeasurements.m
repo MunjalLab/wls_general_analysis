@@ -3,6 +3,7 @@
 % Made with the help of Copilot GPT-5
 % For use in manuscript: Hydrostatic pressure shapes and canalizes
 % semicircular canal morphology to ensure vestibular function.
+% doi.org/10.64898/2026.07.22.740136
 
 
 %% I. USER INPUT FIELDS
