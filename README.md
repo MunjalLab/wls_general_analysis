@@ -1,7 +1,7 @@
 # wls_general_analysis
 Shared repository for general quantification, statistical analysis, and data plotting scripts.
 For use in the manuscript: Hydrostatic pressure shapes and canalizes semicircular canal morphology to ensure vestibular function.
-doi.org/10.64898/2026.07.22.740136
+[doi.org/10.64898/2026.07.22.740136](doi.org/10.64898/2026.07.22.740136)
 
 Written by Jiacheng Wang and Kira L. Heikes.
 
